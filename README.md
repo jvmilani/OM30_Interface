@@ -1,4 +1,7 @@
-# om30
+# Projeto Jedis
+```
+Projeto realizado como teste da Jedis, com o intuito de desenvolver uma interface de cadastro de pacientes vinculada com criada em https://github.com/jvmilani/testeOM30_API
+```
 
 ## Project setup
 ```
